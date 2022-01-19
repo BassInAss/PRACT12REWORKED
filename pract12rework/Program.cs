@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 string a = Console.ReadLine();
 =======
 string b = Console.ReadLine();
@@ -12,3 +13,6 @@ int sum = int.Parse(a) + int.Parse(b);
 =======
 int sum = int.Parse(a) - int.Parse(b);
 >>>>>>> get_sub
+=======
+int sum = int.Parse(a) * int.Parse(b);
+>>>>>>> get_mult
